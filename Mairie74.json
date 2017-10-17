@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mairie74-183214",
+  "private_key_id": "8441c9d9db91f6656eff822eed43c37fd76a4c2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5aBcW2dawEL1H\ntj9/4PuuO8q0TpD3ELSKX1GMRABPFTB0sEGsH6WHDW6i5AhM5w7de0ea+SqBcpgl\nqRRUPoolupChtUdaiQwTvD6a8AiaeJkzbBrdjLh7jxyLnc5Dbv2NqUiO9+CWL0Uq\nY/us7YBqRqoLCnSzbJIws7uPpsf0KZQdGNTKv4TR30U9jah1kTPlw1jT+2hdb5b6\nnZ0CmOuT1724y2yQJ+bFATE+qXF8kX9uNYfqqkWc7jRAGrwZkaRGYYcx5qtONpEJ\n6Rzzb4IqITvjJsn5IITDAiYn/1kh8bC34WRSY+xqo8BcIgs3OE1G+xBTdoqCSbX5\nOrI1ySAvAgMBAAECggEALJKpJl21frtvfcuDJY+lggQu3b0bncH+3VtABBwfBOQf\ns5XiG+q5xSeGBxQSKMbNrJJkKw4m2Vr+1+L3l683UA2zkqS9pDbZV+9ED8SQFO7U\nSef953Bas526q5gDC/QlccaWQoS2EfUISEIkMbUhT6twWtonJzF9TccP2t+qJ3jj\n5ZvK8ZTwbCup1SotCz3f5eAvxIOOCe2LJLzoucKC8mCQBxbHVKVpm0xwTmZUqE4A\noFNVP+kDjPvue13YEuCehia0vijPEaC1TAh2vALU3YKNOC6+SYEoerfXJHg/ijLp\nWFETUrpGWZLnFzykqDVzwK91k2yfGo4BcpDiU5m9CQKBgQD3CCTp+bx9h+QK9Q+v\nP5d1tw9in4lBwWl3b5ytYIKCGSBeFCMKKExFEMTR2Hckrt4RTFf20aqJR0AcI8Bs\nkwRlfo7cBE83WVQi5ijrL8He5kCaaB4soO2+MG9VyWIUEuvMGNIivQiok1wkNI2q\nhMkn6OdY2a1Y2SHLmjUVwwHUFwKBgQDAIzc5lxjAm2yua6+NQBl9Y2cnWkqDIrqj\n/pfZzxdqg0++WArE5V0qxW8U9dRFLDkGWV7N86G5Q4fvhIX+woVkCqgTUt9bJ5Md\ni1Aqitte3trkM05gjj22BpKvrEhv8FSuKVV4jfpqcPO1kI5X3D9T7tA5pIgvIZxi\nHKBBihXrqQKBgAmqI+eTgbBXlLBpDggJMN/GHa/6FeCgtIObtkGCORjl6sJDf2ty\nUCmTkl+zXFXvEXkTx408frOIOhXfwDN/PPjLjsNE1+SOdiA3aPpqj+cskvJ3iFau\npR5/vptYmaG3a8o8XlxFkQUnXr973t8A+u24yvRK7+E9/Xh9u/3x9yxZAoGBAIvt\nGZrnXy9mAZBE/GRx+h5G9ijCqOE3uZUVJKGLIBKB7uFAXRdnsqIjhvJM1XpK6nyl\nOVXjyDOT6ruUV8FhCKQC3sSz5dYMzCcH/in9ViWRRvhKJRpMfMTDpLArV9WtwP3V\nPFm/jE9YUyQ3UnLKA5SspxhTqpoocCtDjbItTimBAoGAeXaztY1cJ/3jeUmlhsah\nzgk2nBKf/qrz8p1i5HIw4z1pY5fjfjpPKlrbslya71ZKiaefl8sZpTJ2R9PvdeEm\ngEcd27EOyMb0hpVVGRxPviRcmdTae2UV9nkBne9KrY5fnDulGT56JBvHDwXL+Iye\nnAat1Ypzy00obMDHidtvCoA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mairie74@mairie74-183214.iam.gserviceaccount.com",
+  "client_id": "110310432502264474513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mairie74%40mairie74-183214.iam.gserviceaccount.com"
+}

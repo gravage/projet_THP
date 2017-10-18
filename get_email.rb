@@ -1,14 +1,18 @@
-require 'bundler'
-Bundler.require
+require 'nokogiri'
+require 'open-uri'
 
-# Authenticate a session with your Service Account
-session = GoogleDrive::Session.from_service_account_key("Mairie74.json")
-# Get the spreadsheet by its title
-spreadsheet = session.spreadsheet_by_title("Copie de mairie74")
-# Get the first worksheet
-worksheet = spreadsheet.worksheets.first
-# Print out the first 6 columns of each row
-worksheet.rows.each { |row| puts row.first(6).join(" | ") }
 
-worksheet.insert_rows(2, [["Hello!", "This", "was", "inserted", "via", "Ruby"]])
-worksheet.save
+
+page = Nokogiri::HTML(open("http://www.annuaire-des-mairies.com/haute-savoie.html"))
+links = page.css("a.lientxt")
+liste = links.each{|departement|
+	a = "http://annuaire-des-mairies.com" + departement['href'].slice!(1..33)
+#	puts a
+	mailv = Nokogiri::HTML(open(a))
+	mailv.css('p:contains("@")').each do |node|
+		puts node.text
+	end
+
+}
+
+
